@@ -6,24 +6,23 @@ This project analyzes tornado activity in the United States between 2015 and 202
 
 ## Project Structure
 
-'''
-
-Database/
-  |--tornado_tracks.db
-Datasets/
-  Clean Files/
-    |--tornado_tracks_combined_cleaned.csv 
-    |--weather_detail_cleaned.csv 
-  Original Files/
-    |--Tornado_tracks_2015_2019.csv
-    |--Tornado_tracks_2020_2025.csv
-    |--Weather_Detail.csv
-Notebooks/
-  |--data_cleaning_Tornado_tracks.ipynb
-  |--data_cleaning_weather.ipynb
-  |--tornado_tracks.ipynb
-readme.md
-'''
+```
+Database/  
+ |--tornado_tracks.db 
+Datasets/  
+ |--Clean Files/  
+    |--tornado_tracks_combined_cleaned.csv  
+    |--weather_detail_cleaned.csv 
+ |--Original Files/  
+    |--Tornado_tracks_2015_2019.csv   
+    |--Tornado_tracks_2020_2025.csv  
+    |--Weather_Detail.csv  
+Notebooks/ 
+    |--data_cleaning_Tornado_tracks.ipynb   
+    |--data_cleaning_weather.ipynb  
+    |--tornado_tracks.ipynb 
+README.md  
+```
 
 
 
