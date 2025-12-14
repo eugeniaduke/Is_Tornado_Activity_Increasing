@@ -40,7 +40,7 @@ readme.md
 -   Tornado Data   
         -   NOAA https://www.ncei.noaa.gov/stormevents/choosedates.jsp?statefips=21%2CKENTUCKY
 
--   Weather Data
+-   Weather Data   
         -   National Climatic Data Center https://www.ncdc.noaa.gov/cdo-web/search
 
 
