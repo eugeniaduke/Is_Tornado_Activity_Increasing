@@ -51,7 +51,7 @@ The analysis shows trends in tornado occurrences geographical distribution. Init
 
 I used this website, https://www.geeksforgeeks.org/python/get-the-city-state-and-country-names-from-latitude-and-longitude-using-python/, to convert the latitude and longitude to a zipcode.
 
-AI tools (Co-Pilot specifically) was used to help with the code to convert the latitude and longitude to a zipcode as well as thee code used to merge that data back into the original dataframe.
+AI tools (Co-Pilot specifically) were used to help with the code to convert the latitude and longitude to a zipcode as well as the code used to merge that data back into the original dataframe.
 
 ## Author
 Eugenia Duke

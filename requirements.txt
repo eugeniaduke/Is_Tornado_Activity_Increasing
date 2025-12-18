@@ -3,3 +3,4 @@ matplotlib
 geopy
 numpy
 jupyter
+seaborn
