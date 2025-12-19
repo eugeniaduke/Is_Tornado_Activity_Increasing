@@ -30,6 +30,11 @@ Notebooks/
     |--data_cleaning_weather.ipynb  
     |--tornado_tracks.ipynb 
 
+Visuals/ 
+    |--Average Magnitude of Thunderstorms Over Time.png  
+    |--Average Monthly Temperatures.png
+    |--Summer Tornado Count vs Average Temperature.png
+
 README.md  
 
 requirements.txt   
@@ -49,6 +54,12 @@ requirements.txt
 3. Open `Tornado_tracks_Database.ipynb` in Jupyter Notebook or JupyterLab.
 
 ## Example Output 
+
+![alt text](<Screenshot 2025-12-19 063450.png>)
+
+![alt text](<Screenshot 2025-12-19 084956.png>)
+
+![alt text](<Screenshot 2025-12-19 093844.png>)
 
 ## Data Sources
 
