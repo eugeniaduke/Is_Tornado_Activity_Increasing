@@ -71,7 +71,12 @@ requirements.txt
 
 
 ## Results
-The analysis shows trends in tornado occurrences geographical distribution. Initially the data was visualized using static maps, but an interactive heatmap was later implemented for better insights.  While the bar graph used showed an increase in tornado occurrences, the heatmap provided a clearer geographical distribution.  The analysis is inclusive at this time because it's unknown if the increase in tornado activity is due to better tracking or an actual increase in occurrences.
+The analysis reveals several key observations:
+- Tornado occurrences show year‑to‑year variability, with no clear correlation to temperature.
+- The scatterplot of the average magnitude of thunderstorms shows an upstick up strength starting in 2022 and continuing through 2024 with a sharp decline in 2025.  2025 could be anomoly. 
+- A heatmap of average monthly temperatures shows a slight upward trend for temperatures in the summer months by a few degrees.  Even though it is only a few degrees that could be a signal that the earth is getting warmer overall. 
+
+
 
 ## Acknowledgements
 
