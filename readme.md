@@ -1,14 +1,21 @@
 # Is Tornado Activity Increasing?
 
 ## Description
+This project investigates tornado activity in the United States from 2015 to 2025 to identify long‑term trends, seasonal patterns, and potential environmental drivers. By combining NOAA tornado track data with daily weather observations from the National Climatic Data Center, the analysis explores:
 
-This project analyzes tornado activity in the United States between 2015 and 2025 to identify long‑term trends and seasonal patterns. By combining tornado track data with daily weather observations, it examines whether tornado frequency has increased over the past decade and explores how temperature variations may influence tornado occurrence and intensity. The workflow includes data cleaning, SQL‑based analysis, and visualizations in Python to uncover meaningful insights into the relationship between severe weather and atmospheric conditions.
+- Whether tornado frequency has increased over the past decade
+- How temperature relate to tornado occurrence
+- Whether the magnitude of thunderstorms has increased over time
+- How the temperatures have changed or if they have changed drastically over time
+
+The workflow includes data cleaning, SQL queries, geospatial mapping, and Python‑based visualizations to uncover meaningful insights into severe weather behavior.
 
 ## Project Structure
 
 ```
 Database/  
  |--tornado_tracks.db 
+
 Datasets/  
  |--Clean Files/  
     |--tornado_tracks_combined_cleaned.csv  
@@ -17,11 +24,14 @@ Datasets/
     |--Tornado_tracks_2015_2019.csv   
     |--Tornado_tracks_2020_2025.csv  
     |--Weather_Detail.csv  
+
 Notebooks/ 
     |--data_cleaning_Tornado_tracks.ipynb   
     |--data_cleaning_weather.ipynb  
     |--tornado_tracks.ipynb 
+
 README.md  
+
 requirements.txt   
 ```
 
@@ -29,6 +39,11 @@ requirements.txt
 
 ## Installation
 1. Fork and clone this repository
+2. Create a virtual environment
+        - to do this run (in GitBash) python -m venv myevn
+3. Activate the virtual environment 
+        - to do this run (in GitBash) source source myenv/Scripts/activate 
+        - you'll know it worked if your prompt changes to show (myenv)
 2. Install the required Python packages:  
     pip install -r requirements.txt
 3. Open `Tornado_tracks_Database.ipynb` in Jupyter Notebook or JupyterLab.
