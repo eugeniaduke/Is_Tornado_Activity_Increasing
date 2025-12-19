@@ -72,8 +72,8 @@ requirements.txt
 
 ## Results
 The analysis reveals several key observations:
-- Tornado occurrences show year‑to‑year variability, with no clear correlation to temperature.
-- The scatterplot of the average magnitude of thunderstorms shows an upstick up strength starting in 2022 and continuing through 2024 with a sharp decline in 2025.  2025 could be anomoly. 
+- Tornado occurrences show year‑to‑year variability, with no clear correlation to temperature.  There is no evidence based on these datasets that tornado frequency is increasing.
+- The scatterplot of the average magnitude of thunderstorms shows an uptick in strength starting in 2022 and continuing through 2024 with a sharp decline in 2025.  2025 could be anomaly. 
 - A heatmap of average monthly temperatures shows a slight upward trend for temperatures in the summer months by a few degrees.  Even though it is only a few degrees that could be a signal that the earth is getting warmer overall. 
 
 
